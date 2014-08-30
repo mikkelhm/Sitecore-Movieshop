@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {4DF06235-8756-4D79-9C1C-A88756C5CB89}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/e/extract
+parent: {799B3BEE-6A9F-48A5-ABF4-7AEF8467073A}
+name: extract
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 715eaa79-0317-4ed8-a16f-c4f99b138d24
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{66CBFD98-6125-4C27-8C0B-CC847298607E}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 7
+
+Extract
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 7
+
+Extract
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 48
+
+Sticking it to the man has never looked so good.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 212
+
+Dean (Bateman), the owner of a flower-extract plant, tries to contend with myriad personal and professional problems, such as his potentially unfaithful wife (Wiig) and employees who want to take advantage of him
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,20
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+35
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{5B6991D0-69D9-431E-87D7-D9D762FB2B7D}|{3BFBFEF4-4DE5-404B-8683-312E88FF4D5E}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 5
+
+12569
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt1225822
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 2
+
+92
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20090903T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 38
+
+{F322E866-8D20-4BB4-BD52-EC41F70DCE3D}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 7
+
+Extract
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 7
+
+Extract
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T075403
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+715eaa79-0317-4ed8-a16f-c4f99b138d24
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T075403:635445500435043855
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

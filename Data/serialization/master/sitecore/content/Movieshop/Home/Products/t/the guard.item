@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {D58D3CC4-747E-461C-A2F4-8C7C7AFC5FD4}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/t/the guard
+parent: {7F30F90B-27B8-4220-B43C-28FCB73654FC}
+name: the guard
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 63c56902-ebd6-4d95-9112-8c137412e112
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{6595342C-5828-4886-99C8-2A2A4C434BAA}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 9
+
+The Guard
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 9
+
+The Guard
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 80
+
+The FBI are about to discover that things work a little differently around here.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 156
+
+An unorthodox Irish policeman with a confrontational personality is teamed up with an uptight FBI agent to investigate an international drug-smuggling ring.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,80
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+57
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 155
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{5B6991D0-69D9-431E-87D7-D9D762FB2B7D}|{DC853B88-D870-4132-B868-AC3091E616E4}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 5
+
+67913
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt1540133
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 2
+
+96
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20110707T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 155
+
+{35CEEB6C-CE51-481E-9809-56679C4AF5B7}|{FCA0F95E-D8B0-4BF3-A8EC-977FA36DCCA1}|{9DA6628A-EB26-403E-9A1A-275C697CCAA9}|{B7E276CC-4DEE-4F77-BF97-6C0BBAB3247A}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{3A1F5EBD-36AE-4584-B666-76CEF8DB797E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 9
+
+The Guard
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 9
+
+The Guard
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T073159
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+63c56902-ebd6-4d95-9112-8c137412e112
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T073200:635445487200491901
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

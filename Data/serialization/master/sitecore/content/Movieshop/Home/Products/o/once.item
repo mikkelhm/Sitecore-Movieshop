@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {DEB55AA9-AFE3-44AD-BB7D-919EF78D42F3}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/o/once
+parent: {E543F65B-717B-4162-A75E-86D1B6F20EF1}
+name: once
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: dce6a1c4-3a81-4a43-93af-b6d92bc279ef
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{A871C672-AD38-4F92-B8DD-A99A63869E27}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 4
+
+Once
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 4
+
+Once
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 39
+
+How often do you find the right person?
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 336
+
+The Guy is a Dublin guitarist/singer-songwriter who makes a living by fixing vacuum cleaners in his Dad's Hoover repair shop by day, and singing and playing for money on the Dublin streets by night. The Girl is a Czech who plays piano when she gets a chance, and does odd jobs by day and takes care of her mom and her daughter by night.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,10
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+162
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{D95FA0FD-6192-4607-9CD4-56F3AD2CE3F6}|{77DD9CB6-E7E0-490E-B7D2-636E30F8FE6C}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+5723
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0907657
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 2
+
+85
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20060714T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 116
+
+{27566FB4-FED8-401A-8C05-7D2A86A4CD17}|{B77D537F-9C36-4661-A45C-9BF952DC39E9}|{1D4ACABC-ABD1-4E44-A238-EFA956F965BD}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{3A1F5EBD-36AE-4584-B666-76CEF8DB797E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 4
+
+Once
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 4
+
+Once
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072732
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dce6a1c4-3a81-4a43-93af-b6d92bc279ef
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072732:635445484525188189
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

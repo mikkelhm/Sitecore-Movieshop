@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {0A21D5CB-D267-4E0C-A1D9-C7136AA1EEE8}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/i/i heart huckabees
+parent: {F24D88CC-CACC-4271-9115-7C7B647A9072}
+name: i heart huckabees
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: f473df27-3a3a-4c22-a6ce-2353ed162ba0
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{245C39F5-97AA-43DE-BC5D-E8E7865AF393}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 17
+
+I Heart Huckabees
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 17
+
+I Heart Huckabees
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 21
+
+An existential comedy
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 206
+
+A husband-and-wife team play detective, but not in the traditional sense. Instead, the happy duo helps others solve their existential issues, the kind that keep you up at night, wondering what it all means.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,30
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+32
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{5B6991D0-69D9-431E-87D7-D9D762FB2B7D}|{77DD9CB6-E7E0-490E-B7D2-636E30F8FE6C}|{3BFBFEF4-4DE5-404B-8683-312E88FF4D5E}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+1599
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0356721
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+106
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20040910T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 233
+
+{F52BC5B5-8E00-455D-9D19-0256116415F0}|{A9FE225E-9AB1-4017-922E-7A64FE0D0D30}|{59556F98-2852-4871-BD4A-C803EA88063F}|{9A3FB43D-A053-419D-8E89-E1EB79E9D3AC}|{8272C431-0D56-444B-B86C-643449C531ED}|{A2EED788-57CA-495F-830D-0E28BA4B0A74}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{81243394-DDA5-41A6-B148-16C611DB9C15}|{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 17
+
+I Heart Huckabees
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 17
+
+I Heart Huckabees
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T075004
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f473df27-3a3a-4c22-a6ce-2353ed162ba0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T075005:635445498052429122
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

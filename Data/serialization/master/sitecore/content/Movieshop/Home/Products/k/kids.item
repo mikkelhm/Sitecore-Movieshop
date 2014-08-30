@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {1B89BD34-DA25-45DB-B81A-D7A625A614B1}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/k/kids
+parent: {2BD5D8A7-CC2B-442B-A851-180CAC175EED}
+name: kids
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: f72f2117-f9f7-49de-af93-e2f8f4d6f0f9
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{F996AEA4-1E43-4A44-8B35-A2FA746F5678}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 4
+
+Kids
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 4
+
+Kids
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 580
+
+A controversial portrayal of teens in New York City which exposes a deeply disturbing world of sex and substance abuse. The film focuses on a sexually reckless, freckle-faced boy named Telly, whose goal is to have sex with as many different girls as he can. When Jenny, a girl who has had sex only once, tests positive for HIV, she knows she contracted the disease from Telly. When Jenny discovers that Telly's idea of "safe sex" is to only have sex with virgins, and is continuing to pass the disease onto other unsuspecting girls, Jenny makes it her business to try to stop him.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,10
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+30
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{DC853B88-D870-4132-B868-AC3091E616E4}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+9344
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0113540
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 2
+
+91
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+19950728T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 38
+
+{5781DABA-FDC8-4876-80A2-0D5CA7E0C2C8}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 4
+
+Kids
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 4
+
+Kids
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072749
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f72f2117-f9f7-49de-af93-e2f8f4d6f0f9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072749:635445484699478116
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

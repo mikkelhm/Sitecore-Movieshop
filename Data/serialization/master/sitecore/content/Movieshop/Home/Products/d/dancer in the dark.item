@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {11B70650-94D5-4993-B413-5ED41B27CF35}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/d/dancer in the dark
+parent: {E3E604F3-8971-4164-BEA6-F6CCF8F4BCD7}
+name: dancer in the dark
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 6b8410f5-439f-4357-98db-ccd6f814b598
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{1508F19D-D957-4E6D-9597-4DD0E0135716}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 18
+
+Dancer in the Dark
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 18
+
+Dancer in the Dark
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 27
+
+You don't need eyes to see.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 419
+
+Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, escaping life's troubles - even if just for a moment - by dreaming up little numbers to the rhythmic beats of her surroundings.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,70
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+53
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{DC853B88-D870-4132-B868-AC3091E616E4}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{D95FA0FD-6192-4607-9CD4-56F3AD2CE3F6}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 2
+
+16
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0168629
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+140
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20000922T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 662
+
+{08018BBD-1147-414E-ABE2-80FEBAA4F378}|{A99DEEDE-76A9-480E-A1D8-38F88D2CAB0C}|{A762506D-D510-4C83-BF7B-02C8EB97E432}|{EC0DE1CA-BC52-45A9-8E20-72B02151640C}|{098A5216-CA45-43D2-B113-F49E6311C766}|{5B9725DA-5487-4F26-B29B-E06377C25807}|{107286D9-CB98-43F6-82D1-AB0FF8B39B33}|{3324C71B-02AF-4E2D-9892-7DDC8384C8ED}|{4193456B-9704-4E7F-9CBF-527F9200F684}|{88372C9A-4A3C-408A-8B43-B8750F970973}|{15B44362-3247-414F-A9B8-3B4ACD2E732E}|{B655BA9B-050C-4CFE-83E4-C7306A7E2A45}|{185A7ECD-2237-4F14-8082-6ADB7670B85D}|{076862A7-59F1-4997-A346-D734BFAF836F}|{4F0D39BB-35BB-4BFC-BEA1-1EFF34262756}|{EDD2B81E-F799-4051-82A4-EF11B00ECB98}|{23AC5183-02A9-4E7A-B67B-C562D3AED6FD}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{21FF9BCE-3E4B-4F4D-8AE9-C92F914BB756}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 18
+
+Dancer in the Dark
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 18
+
+Dancer in the Dark
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072529
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6b8410f5-439f-4357-98db-ccd6f814b598
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072530:635445483300450829
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {A472D250-A0CF-4B89-95E1-AB1E05E1172A}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/u/underworld
+parent: {3F1C8964-FB85-46F9-98E8-F7DB3E5E7B5B}
+name: underworld
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 7a410225-ffdf-4f80-845f-1ae98a51eba7
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{74AD1657-1841-4C82-A8EA-059F606CC242}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 10
+
+Underworld
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 10
+
+Underworld
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 33
+
+An immortal battle for supremacy.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 295
+
+Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,30
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+944
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{D6517635-F9E4-4693-A18F-96F69ACC0A23}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 3
+
+277
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0320691
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+121
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20030919T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 233
+
+{85B38F05-E93A-49DF-BEC1-3E8F77F7F17E}|{0195262A-026E-455A-8BB8-0DBA28593221}|{A3985663-6211-4479-8A79-981FCFF9867B}|{26AE1FF9-D5C8-49DC-9DF4-8BFEE5154C98}|{87110752-F707-4438-8266-429A5D40B152}|{B9D5B4CE-87DF-469C-9BF3-5EECD44CAD66}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 155
+
+{81243394-DDA5-41A6-B148-16C611DB9C15}|{D2FFD316-A39A-4AB0-8867-A8ACFA52AAE4}|{B1D5CB6B-EFAE-46A3-883B-4B23ED6CEE73}|{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 10
+
+Underworld
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 10
+
+Underworld
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T074533
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7a410225-ffdf-4f80-845f-1ae98a51eba7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T074534:635445495343158496
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

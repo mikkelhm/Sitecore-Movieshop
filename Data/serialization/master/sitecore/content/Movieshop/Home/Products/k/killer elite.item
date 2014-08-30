@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {2C2E2FEB-A43D-4021-AD98-F768E4F9003E}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/k/killer elite
+parent: {2BD5D8A7-CC2B-442B-A851-180CAC175EED}
+name: killer elite
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 05f1a144-9b0b-4641-91ed-7f932e37636f
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{DF8F74AE-D3D5-430B-B0CD-5D9423AC60B4}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 12
+
+Killer Elite
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 12
+
+Killer Elite
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 21
+
+May the Best Man Live
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 394
+
+Based on a shocking true story, Killer Elite pits two of the world’s most elite operatives—Danny, an ex-special ops agent and Hunter, his longtime mentor—against the cunning leader of a secret military society. Covering the globe from Australia to Paris, London and the Middle East, Danny and Hunter are plunged into a highly dangerous game of cat and mouse—where the predators become the prey.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,00
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+180
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{5A32C32D-C068-42D8-9249-28AECCA17F8F}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 5
+
+49021
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt1448755
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+116
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20110923T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 311
+
+{17EAAB86-2B4A-4F7D-AB3A-32A8C6A9914B}|{426AC7A9-001C-449E-9931-3926E8E09DC6}|{5CC7319E-F740-4FAA-B36F-9BDAF21D32F7}|{0F3C8763-A899-4797-9937-DBEF9206D666}|{1F8A0E0A-21CC-4C44-80DE-65FCC3A31462}|{14E49804-DBD1-4647-87F7-D42F4DDE2F5F}|{58E4757D-F5E2-4D7D-9360-7BA3FF4CAC8A}|{BD55803C-1466-4B4A-BEFB-3DF6D19AF972}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{C7075690-2E3A-4AEC-9F9A-24D6DEE05091}|{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 12
+
+Killer Elite
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 12
+
+Killer Elite
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T075718
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+05f1a144-9b0b-4641-91ed-7f932e37636f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T075719:635445502395893041
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

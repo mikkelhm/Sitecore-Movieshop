@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {517C6482-1C06-4386-8031-0AE312E2FB38}
+database: master
+path: /sitecore/templates/Argon/Interface templates
+parent: {F96861F9-3050-4F58-982C-7A550838C3B3}
+name: Interface templates
+master: {00000000-0000-0000-0000-000000000000}
+template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
+templatekey: Template Folder
+

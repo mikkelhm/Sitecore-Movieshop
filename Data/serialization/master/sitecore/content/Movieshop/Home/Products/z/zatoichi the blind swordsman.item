@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {61A4DD92-6AA9-4893-8656-00F7D21548AB}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/z/zatoichi the blind swordsman
+parent: {2C11F396-367C-44C1-86E2-5A2CB74F4976}
+name: zatoichi the blind swordsman
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 5bc1f80e-7808-4807-8ac1-01981c6680e6
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{20473645-410E-4DE2-A177-9508D326544B}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 8
+
+Zatôichi
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 29
+
+Zatoichi: The Blind Swordsman
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 792
+
+Zatôichi is a 19th century blind nomad who makes his living as a gambler and masseur. However, behind this humble facade, he is a master swordsman gifted with a lightning-fast draw and breathtaking precision. While wandering, Zatôichi discovers a remote mountain village at the mercy of Ginzo, a ruthless gang-leader. Ginzo disposes of anyone who gets in his way, especially after hiring the mighty samurai ronin, Hattori, as a bodyguard. After a raucous night of gambling in town, Zatôichi encounters a pair of geishas--as dangerous as they are beautiful--who've come to avenge their parents' murder. As the paths of these and other colorful characters intertwine, Ginzo's henchmen are soon after Zatôichi. With his legendary cane sword at his side, the stage is set for a riveting showdown.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,40
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+32
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{5A32C32D-C068-42D8-9249-28AECCA17F8F}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 3
+
+246
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0363226
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+111
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20030906T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 155
+
+{7F8E405A-5242-4FE4-B77D-2EF9DCAB4E03}|{E7FE969F-3DB9-475C-BAC9-2957B0DF0E06}|{66EAD4CA-3D17-4321-A232-42A62B87A38E}|{2E2B5EBD-DCD2-4D30-ACF6-4C7B0353308B}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{A28412AF-D2E9-4DF0-B95A-CDD93D3464E9}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 29
+
+Zatoichi: The Blind Swordsman
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 29
+
+Zatoichi: The Blind Swordsman
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072625
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5bc1f80e-7808-4807-8ac1-01981c6680e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072625:635445483857136380
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

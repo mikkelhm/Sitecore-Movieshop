@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {6C0117B8-0A38-49DF-9982-726A1BB9633E}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/r/rurouni kenshin
+parent: {AF3C0CB0-18B7-47D2-A66C-9A0B84127E61}
+name: rurouni kenshin
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 88b33c4a-c09f-4736-aec5-ee10197db1c6
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{5149405E-BD26-46B5-AD78-73F496DF9D1E}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 39
+
+Rurôni Kenshin: Meiji kenkaku roman tan
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 15
+
+Rurouni Kenshin
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 18
+
+The Journey Begins
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 485
+
+Former legendary assassin Kenshin Himura has now become a wandering samurai. Offerring aid &amp; protecting those in need as atonement for his past deeds. During this time Kenshin Himura comes across and aides Kaoru Kamiya (Emi Takei). Her father opened the Kamiya Kasshin-ryu, a kendo school located in Tokyo and Kaoru is now an instructor there. Kaoru then invites Kenshin to stay at her dojo. Their relationship develops further, but Kenshin is still haunted by his violent past ...
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,00
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+34
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 194
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{4C35A0E0-541C-41E2-B349-4EFB9582368A}|{8A024DDF-282B-4E99-B41D-035279335FE6}|{D4109BC9-820C-4D7D-B0CD-EE727FD02680}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 6
+
+127533
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt1979319
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+134
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20120825T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 116
+
+{DA677001-EADC-47BD-AD37-143C6E2AA256}|{B4EE8165-E0C3-43F1-BBC2-C3235BF7D30B}|{370C30F3-0A17-447D-8FC5-A7ADFF67A1D8}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{A28412AF-D2E9-4DF0-B95A-CDD93D3464E9}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 15
+
+Rurouni Kenshin
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 15
+
+Rurouni Kenshin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072835
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+88b33c4a-c09f-4736-aec5-ee10197db1c6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072835:635445485159891799
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

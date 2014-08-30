@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {EF0A43DD-ED15-4026-933E-B54A3702F4BF}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/s/syriana
+parent: {35BE84BC-C88A-4E10-B0BD-35823E4409B2}
+name: syriana
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 449419a2-2eb0-46d3-9969-c0c864243626
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{94CD0439-DB3E-48A9-9DD8-FEA6F3D322A1}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 7
+
+Syriana
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 7
+
+Syriana
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 24
+
+Everything is connected.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 747
+
+U.S. energy giant Connex is losing control of key Middle East oil fields in a kingdom ruled by the al-Subaai family. The emirate's foreign minister, Prince Nasir has granted natural gas drilling rights to a Chinese company, greatly upsetting the U.S. oil industry and government. To compensate for its decreased production capacity, Connex initiates a shady merger with Killen, a smaller oil company that recently won the drilling rights to key petroleum fields in Kazakhstan. Antitrust regulators at the U.S. Justice Department have misgivings. A Washington, D.C.-based law firm is hired to smooth the way for the merger. Bennett Holiday is assigned to promote the impression of due diligence to the DoJ, deflecting any allegations of corruption.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,10
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+79
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 3
+
+231
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0365737
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+128
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20051123T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 233
+
+{DA677001-EADC-47BD-AD37-143C6E2AA256}|{61919E1F-A579-4A60-B9AE-C91987DE3512}|{B3314856-E004-466B-853D-786E4F06DB72}|{71EDBAB6-4354-4387-AF28-02C630E3AF89}|{F2AF162C-E111-465E-9842-C9793B2F999E}|{20B652B2-4C21-408A-880F-92D4E1ECA5D9}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 7
+
+Syriana
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 7
+
+Syriana
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T075514
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+449419a2-2eb0-46d3-9969-c0c864243626
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T075514:635445501147609456
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

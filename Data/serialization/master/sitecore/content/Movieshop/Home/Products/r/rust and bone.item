@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {770FDD18-12C1-464C-AA46-29B1F3076B11}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/r/rust and bone
+parent: {AF3C0CB0-18B7-47D2-A66C-9A0B84127E61}
+name: rust and bone
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 42e5a3d8-3744-45b5-b87d-3a93cb86dbd1
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{31A4E328-3021-4970-BF75-B519035FC8EF}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 18
+
+De rouille et d'os
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 13
+
+Rust and Bone
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 224
+
+Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,70
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+51
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{77DD9CB6-E7E0-490E-B7D2-636E30F8FE6C}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 5
+
+97365
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt2053425
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+123
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20120517T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 623
+
+{DF31E0F4-EEE2-4366-984D-096825BE47C7}|{940F60ED-2F84-45C1-8D35-07C1F7D0FDD9}|{5E12F738-28FC-4DCA-9A26-AD0B13891F29}|{7BBCA7C0-9794-45C0-9D2F-F6DE1C887C2D}|{F41EDF59-3A46-40B7-9E69-12BA2C647D38}|{9DBC3AEE-B303-4CDD-9EC2-57B1C8FABC8C}|{FC58E72D-28AA-497B-9D7A-EC299FE3DA1A}|{4193456B-9704-4E7F-9CBF-527F9200F684}|{BA7DB890-9881-499B-9BA6-E15DFFC2E0E5}|{87682670-293A-491F-85D5-BDC25C9A9CFE}|{27C9A302-32F2-43F4-9C59-4EA1B6F2820F}|{87849F3F-57EE-42F4-81FC-36C0822ADBE3}|{0D652172-49C4-4F1F-9F6C-C5F1471BF0E2}|{956124BD-9D75-463C-B20C-C4AD909361D5}|{F7C24259-2D61-4E7D-8BD1-4A1AB67106FE}|{C3DFC422-E92B-4221-A20F-38A61A608460}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{E22C5AF7-0262-4D9A-BD8A-240161B205F2}|{874CDAE8-6239-42FA-A51D-4553C0F77871}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 13
+
+Rust and Bone
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 13
+
+Rust and Bone
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T073527
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+42e5a3d8-3744-45b5-b87d-3a93cb86dbd1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T073529:635445489296531197
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

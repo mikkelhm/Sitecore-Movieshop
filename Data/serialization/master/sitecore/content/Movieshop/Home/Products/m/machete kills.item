@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {09C6EAD6-A110-4E8B-90F4-88A21B0B0895}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/m/machete kills
+parent: {A185795F-A448-4399-BA45-1E50833BB2BE}
+name: machete kills
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 00fd1071-54c1-45cb-a52b-128cee1585c0
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{3FF026C6-48A4-4304-85FD-908860D6CAC0}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 13
+
+Machete Kills
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 13
+
+Machete Kills
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 46
+
+Trained to kill. Left for dead. Back for more.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 287
+
+Ex-Federale agent Machete is recruited by the President of the United States for a mission which would be impossible for any mortal man – he must take down a madman revolutionary and an eccentric billionaire arms dealer who has hatched a plan to spread war and anarchy across the planet.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+05,50
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+107
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{DC853B88-D870-4132-B868-AC3091E616E4}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 6
+
+106747
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt2002718
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+107
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20131011T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 233
+
+{D5DF8FFE-1FBD-46B2-824E-303052C9988D}|{5F2C7A48-5659-42CD-868E-F7B8F9714E57}|{DE665A5F-91BB-45A3-8D36-661C2B9F4893}|{7691D962-5BCA-4E10-88C5-BA5A2682377C}|{2BE2424C-12D8-47EF-AD5F-AB912D55F8C2}|{411DE635-73BA-4F7F-9C31-5C1CE7D3914D}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 13
+
+Machete Kills
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 13
+
+Machete Kills
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T080930
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+00fd1071-54c1-45cb-a52b-128cee1585c0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T080931:635445509715021373
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

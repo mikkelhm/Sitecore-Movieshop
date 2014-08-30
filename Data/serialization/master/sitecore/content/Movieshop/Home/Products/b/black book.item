@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {F26BA2FF-2B07-40B1-8B41-F04FBD8D4D24}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/b/black book
+parent: {C0D565A8-5C2E-40FE-A868-E0156D8A9895}
+name: black book
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: f73f188f-5747-4bc9-86e4-107f823da437
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{EF3BBB42-A02F-49F5-A2FC-A15FC361FB8D}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 9
+
+Zwartboek
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 10
+
+Black Book
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 48
+
+To fight the enemy, she must become one of them.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 141
+
+In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,40
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+41
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}|{39376C21-8C96-4083-87DD-295873EC7C34}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+9075
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0389557
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+145
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20060913T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 662
+
+{481B6E4F-08B8-4A20-8EF2-5E0E92E68F9F}|{41914F30-502C-4BD4-86B0-061B0FD8B1DE}|{B8BF5DF6-B0E9-4ABD-AD4F-FF527040BE28}|{9728F9C8-D8F7-44EB-A4FE-AAD7341832FC}|{7247C0E9-32B9-4A23-A09E-9DEE1E4575D9}|{0F599039-839E-4573-A434-7230D1510F47}|{850B1E34-D173-4D60-A8AD-35F633AB5560}|{AF875730-C14C-4938-AD30-98EDE62E1989}|{014E532F-4367-4B35-93FA-802CAB5DF66D}|{EAA78025-B99C-4DAE-95B1-1AE3702ACD61}|{B2AD0C25-7AB7-47EF-BCE9-331705403E42}|{F5FAC0DF-D1E3-4B08-A55F-A89004C70440}|{75DB8E9C-574B-43DF-AF0B-C2EC72289D89}|{3D1E8899-9B95-4CCD-8B1F-B2EEA3FB6F86}|{218D33D9-A3CF-4038-8C97-34F1291DE526}|{7E885B8F-6973-45AF-8E96-3F24B8B22A26}|{D455AF11-42B1-4734-BE62-21A981F270CF}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 116
+
+{81243394-DDA5-41A6-B148-16C611DB9C15}|{D2FFD316-A39A-4AB0-8867-A8ACFA52AAE4}|{8B7E2363-0FF1-44E2-9FD0-8931BA49345C}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 10
+
+Black Book
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 10
+
+Black Book
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072621
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f73f188f-5747-4bc9-86e4-107f823da437
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072622:635445483821616407
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

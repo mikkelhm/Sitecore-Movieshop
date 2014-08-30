@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {B5855305-8749-4B96-8174-80476D6EE913}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/s/sky captain and the world of tomorrow
+parent: {35BE84BC-C88A-4E10-B0BD-35823E4409B2}
+name: sky captain and the world of tomorrow
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: d622edce-6c10-4f46-a893-cf0ae01cefba
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{697A1415-38DD-43D3-AF0F-9C697CE2482C}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 37
+
+Sky Captain and the World of Tomorrow
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 37
+
+Sky Captain and the World of Tomorrow
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 44
+
+The Battle for Tomorrow is About to Begin...
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 376
+
+When scientists the world over keep disappearing without a trace, it's up to intrepid reporter Polly Perkins and top aviator Sky Captain to uncover the truth in this futuristic, Art Deco-style actioner. The task involves putting their lives at risk as the pair travels to treacherous locales, hoping to throw a wrench in the plans of a villain who aims to wipe out the planet.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,20
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+89
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 194
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{5A32C32D-C068-42D8-9249-28AECCA17F8F}|{7BB1B475-6C2B-46C8-8621-47F81512300A}|{E925C30A-4B2B-4911-B58F-E5B4CDDA3FA0}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+5137
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0346156
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+106
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20040914T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 233
+
+{96F9B4EA-8C9A-4048-8D7A-AC8F131791EA}|{772662D5-7D03-4B6A-AD3A-0451C5030975}|{F27A975F-4ABC-46EE-A291-7601D4C832BE}|{2E9AF3FF-BE1C-48DE-88EE-A9D0C389B643}|{0A40ECDC-28ED-44C0-B03C-0BFD41B6BD55}|{12858FF0-4F4F-4F31-A2CC-BC0FDB55EFB2}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{D2FFD316-A39A-4AB0-8867-A8ACFA52AAE4}|{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 37
+
+Sky Captain and the World of Tomorrow
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 37
+
+Sky Captain and the World of Tomorrow
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T075317
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d622edce-6c10-4f46-a893-cf0ae01cefba
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T075318:635445499982705430
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

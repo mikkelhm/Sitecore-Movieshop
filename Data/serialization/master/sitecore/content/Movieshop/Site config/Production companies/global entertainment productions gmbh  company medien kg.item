@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {498BDE5E-77E3-4E71-92A8-DE56EA37E3C5}
+database: master
+path: /sitecore/content/Movieshop/Site config/Production companies/global entertainment productions gmbh  company medien kg
+parent: {7A968F6F-7A21-4977-815C-581A9DC3EF5A}
+name: global entertainment productions gmbh  company medien kg
+master: {00000000-0000-0000-0000-000000000000}
+template: {EB8C2C7A-FE2B-4E9A-8859-D4EBD9CD94D1}
+templatekey: List item
+
+----version----
+language: en
+version: 1
+revision: 02877679-5320-479e-aa00-64683bbadf8a
+
+----field----
+field: {A88CAF35-5EDA-48AE-B6D0-A23FBAC4A532}
+name: Id
+key: id
+content-length: 4
+
+9269
+----field----
+field: {7E79C7BC-87CF-439F-9149-AE841A31D8A8}
+name: Name
+key: name
+content-length: 57
+
+Global Entertainment Productions GmbH & Company Medien KG
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140824T222836
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+02877679-5320-479e-aa00-64683bbadf8a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140824T222836:635445161163960100
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

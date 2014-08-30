@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {E8543056-B89D-4F44-BDAF-8C6B4F18C95A}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/g/gladiator
+parent: {894E6170-4E67-4D6A-B2BB-FE7E2F048E08}
+name: gladiator
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 83daf046-9c7f-4660-aff4-8f63a62f9b69
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{C96CAEDD-696D-4948-922A-09800E0BCC06}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 9
+
+Gladiator
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 9
+
+Gladiator
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 17
+
+A Hero Will Rise.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 394
+
+Gladiator is an epic film of love, death and betrayal set in the Roman Empire. General Maximus' success in battle earns the favour of an elderly Emperor at the expense of the Emperor's son. In a fit of jealous rage the son slays his father before turning his anger towards Maximus. Now reduced to a slave, his family dead, Maximus must fight as a gladiator to gain his freedom, and his revenge.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,30
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 4
+
+1994
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{5A32C32D-C068-42D8-9249-28AECCA17F8F}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 2
+
+98
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0172495
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+155
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20000501T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 272
+
+{FDFD11BA-EB66-485A-A428-7F3DBFAF9EEB}|{262E6954-716E-4C5E-81C4-86ACE7FBE086}|{9C71A1DA-2152-4D13-A560-75971033FBAA}|{EAC1098B-D4FC-40AF-9CFE-9155F9BF5CAC}|{20BDA0D6-406F-4D79-A1F1-CA80F77EEA9C}|{886105E8-CC5B-40EC-A555-B1F103BC5E36}|{ADCF181D-E6A1-4DED-944C-501C5D86AF51}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{D2FFD316-A39A-4AB0-8867-A8ACFA52AAE4}|{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 9
+
+Gladiator
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 9
+
+Gladiator
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072629
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83daf046-9c7f-4660-aff4-8f63a62f9b69
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072629:635445483897129576
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

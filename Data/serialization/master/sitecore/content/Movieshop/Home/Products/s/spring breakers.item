@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {8EE7EAF3-3523-498F-9ED5-879312F42E40}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/s/spring breakers
+parent: {35BE84BC-C88A-4E10-B0BD-35823E4409B2}
+name: spring breakers
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: a6da46e1-0d42-433c-aeed-2cbc23b690dd
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{D53EEE63-F5DA-4681-9C81-63DD46F9D118}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 15
+
+Spring Breakers
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 15
+
+Spring Breakers
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 42
+
+A little sun can bring out your dark side.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 536
+
+Brit, Candy, Cotty, and Faith have been best friends since grade school. They live together in a boring college dorm and are hungry for adventure. All they have to do is save enough money for spring break to get their shot at having some real fun. A serendipitous encounter with rapper "Alien" promises to provide the girls with all the thrill and excitement they could hope for. With the encouragement of their new friend, it soon becomes unclear how far the girls are willing to go to experience a spring break they will never forget.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+04,90
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+459
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{DC853B88-D870-4132-B868-AC3091E616E4}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 6
+
+122081
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt2101441
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 2
+
+94
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20120905T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 272
+
+{3BFC4D5E-34EB-4392-8FAF-37A4408FC818}|{70679AAA-EB21-4D50-81C1-D4A86C3B05E9}|{E4A72F2A-B58C-462F-AACA-4E3B7600FCD0}|{3CDBDCDC-67A0-41AE-AAE0-7247ECE583AC}|{52DBBDB5-31EC-497B-A6D9-7AD701AF843B}|{D292899B-B4EC-42C7-997F-96381B6C202F}|{7B703A95-4CF5-41F6-A2D3-8F05DBCA964F}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 15
+
+Spring Breakers
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 15
+
+Spring Breakers
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T082506
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a6da46e1-0d42-433c-aeed-2cbc23b690dd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T082507:635445519075368009
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

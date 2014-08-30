@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {3C0E0E52-4400-48E3-8BD7-CDFAE70C9D4E}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/t/the chorus
+parent: {7F30F90B-27B8-4220-B43C-28FCB73654FC}
+name: the chorus
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 8df2c9b9-1d6c-4c39-940f-330c12302904
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{EA73A566-8981-4375-990A-A4C00CB5B497}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 13
+
+Les choristes
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 10
+
+The Chorus
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 95
+
+Set in 1940's France, a new teacher at a school for disruptive boys gives hope and inspiration.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,30
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+48
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{809C2E5C-94D9-4B01-88C5-412890A0DB5C}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+5528
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0372824
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 2
+
+93
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20040317T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 194
+
+{240CA9CA-F5F5-46DF-9BA8-F5EB4CA3B0B1}|{357363A9-3936-45BA-BF49-0083E268AD47}|{5E12F738-28FC-4DCA-9A26-AD0B13891F29}|{05621699-8E90-494C-B85B-B740034BC715}|{9F3C7689-A431-40B7-8BA4-FDCBB2E77366}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 116
+
+{4A7655E0-4132-4CD4-9793-6F45B6B53770}|{81243394-DDA5-41A6-B148-16C611DB9C15}|{874CDAE8-6239-42FA-A51D-4553C0F77871}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 10
+
+The Chorus
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 10
+
+The Chorus
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072646
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8df2c9b9-1d6c-4c39-940f-330c12302904
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072646:635445484067687550
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

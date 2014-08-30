@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {7D606BEE-4576-42ED-9C19-D488FEC08CBF}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/c/cowboys  aliens
+parent: {858ECFAD-5614-4758-B724-F33A8A1C2DCE}
+name: cowboys  aliens
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 0981bbf6-9992-469b-baa9-3a5ec281c22c
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{6546D049-D4A6-4332-9ACD-25806FB8D2A9}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 16
+
+Cowboys & Aliens
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 16
+
+Cowboys & Aliens
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 26
+
+First Contact. Last Stand.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 367
+
+A stranger stumbles into the desert town of Absolution with no memory of his past and a futuristic shackle around his wrist. With the help of mysterious beauty Ella and the iron-fisted Colonel Dolarhyde, he finds himself leading an unlikely posse of cowboys, outlaws, and Apache warriors against a common enemy from beyond this world in an epic showdown for survival.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+05,50
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+566
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 155
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{E925C30A-4B2B-4911-B58F-E5B4CDDA3FA0}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}|{3E8F717B-388F-43EA-84B7-95E9FC671349}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 5
+
+49849
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0409847
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+119
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20110729T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 350
+
+{98C3DC1B-5507-4E09-A19C-EA7F39E0986B}|{FDFD11BA-EB66-485A-A428-7F3DBFAF9EEB}|{43FA60C9-6CD9-4EC6-8700-141F6124B40A}|{4E2767D8-DA84-456B-9D7E-5F0C7FEFFB23}|{AF9363B9-AB0E-4CFE-9B83-CF339E4F1260}|{EE9B4E31-9396-4190-B92E-8DA9C751DA84}|{1510BF6A-B273-4AEC-9676-39CE4D8E5059}|{D2183B54-17DF-4E4D-854B-0DC80E34F528}|{2FD0B137-0D97-4624-A3DA-61EF9BA080C6}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 16
+
+Cowboys & Aliens
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 16
+
+Cowboys & Aliens
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T080903
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0981bbf6-9992-469b-baa9-3a5ec281c22c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T080904:635445509441549431
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

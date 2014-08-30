@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {2F2C4FD3-FFFF-4DA7-B940-88B2C6D00903}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/t/the great beauty
+parent: {7F30F90B-27B8-4220-B43C-28FCB73654FC}
+name: the great beauty
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 0bc41ff7-2677-46b4-95b1-749f23cbf031
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{00E23040-98B1-4E3C-A2B6-8C67A4780471}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 18
+
+La grande bellezza
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 16
+
+The Great Beauty
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 240
+
+Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,20
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+50
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{5B6991D0-69D9-431E-87D7-D9D762FB2B7D}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 6
+
+179144
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt2358891
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+150
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20130521T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 545
+
+{5198FE1A-B333-4E99-8AC7-1A18273FBA52}|{F6CA9B94-3233-4589-A824-1C917E92F3EA}|{D7012EBC-8121-403D-9BAB-11FD3FE2BACC}|{58ECCB1E-19E6-48EB-B069-F0573B79B558}|{5E12F738-28FC-4DCA-9A26-AD0B13891F29}|{3BCD7161-E063-4410-9EA4-055F03D0BB0E}|{4193456B-9704-4E7F-9CBF-527F9200F684}|{87682670-293A-491F-85D5-BDC25C9A9CFE}|{DF3716E8-44F2-4905-AE4C-B63F12AE7418}|{89C1CEEC-C599-461E-A80C-A123297033E8}|{3BBB4844-D219-46C1-BDE7-F18CDBF4045C}|{E59A7F75-FCF4-41F5-B956-C9B21C9F9BD3}|{7B86C008-4DC7-483D-90DC-3C2C44A53EB8}|{5219E400-B6FD-466C-94C0-D31F2115CD9E}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{874CDAE8-6239-42FA-A51D-4553C0F77871}|{432DAC6A-0505-4842-AED9-4E94793E9AF6}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 16
+
+The Great Beauty
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 16
+
+The Great Beauty
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072708
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0bc41ff7-2677-46b4-95b1-749f23cbf031
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072709:635445484292320139
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

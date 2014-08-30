@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {811B3FAF-FC10-4514-9DB0-FFF9B19738EE}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/b/blindness
+parent: {C0D565A8-5C2E-40FE-A868-E0156D8A9895}
+name: blindness
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 181d3a4f-de08-4c0c-a554-b5165d5e7560
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{4122DFCF-A591-490F-9152-01F3A4A39308}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 9
+
+Blindness
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 9
+
+Blindness
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 175
+
+When a sudden plague of blindness devastates a city, a small group of the afflicted band together to triumphantly overcome the horrific conditions of their imposed quarantine.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,10
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+41
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{E925C30A-4B2B-4911-B58F-E5B4CDDA3FA0}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+8338
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0861689
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+121
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20080912T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 506
+
+{112EF75A-7DB8-4508-93CC-03A07424DCFF}|{D7B8A9A8-A695-4D3E-81DA-13655799F2E7}|{23B00C0F-9E0A-41ED-B348-8F42B16F7BB2}|{B6005699-A367-4567-ACE1-6FFEFD6576DB}|{47F27C03-4B42-4DD3-A85D-0C6A0F53EA79}|{B2F67455-2CDB-4DBF-8DBB-956CB8CE5280}|{C36FA2BB-5F39-4859-98F0-6B7071EFADCD}|{C5575AAB-7871-4B19-95AD-026B3E376F8F}|{3EF265CC-F464-45C5-A549-0BB0D55A2D92}|{5F0FA95C-08D1-45E6-A5DD-516D7D907B68}|{1582E9D7-BDBE-480F-9D8F-42207146CF51}|{667246C5-1EDE-4DD7-96F0-D06B8286B1D4}|{71683759-2551-4422-84B4-B32A35EC14A0}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 116
+
+{13654F83-DF33-4157-9E1F-D04743E2B27E}|{17DC845D-C3AD-4BB7-8950-3ACD17369ACF}|{A28412AF-D2E9-4DF0-B95A-CDD93D3464E9}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 9
+
+Blindness
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 9
+
+Blindness
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T075625
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+181d3a4f-de08-4c0c-a554-b5165d5e7560
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T075626:635445501866616253
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

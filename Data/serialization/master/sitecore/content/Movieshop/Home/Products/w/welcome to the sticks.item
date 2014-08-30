@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {861DEAA2-A150-4D8F-9FF6-0D6B4372294F}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/w/welcome to the sticks
+parent: {C3E09D9D-9633-4382-8F38-ED3A2A2B09D0}
+name: welcome to the sticks
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 35efcc62-ff4c-46f6-80e5-c8b7da29b204
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{85669797-17AB-4972-B1FA-791D9A65C4D4}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 25
+
+Bienvenue chez les ch'tis
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 21
+
+Welcome to the Sticks
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 483
+
+Although living a comfortable life in Salon-de-Provence, a charming town in the South of France, Julie has been feeling depressed for a while. To please her, Philippe Abrams, a post office administrator, her husband, tries to obtain a transfer to a seaside town, on the French Riviera, at any cost. The trouble is that he is caught red-handed while trying to scam an inspector. Philippe is immediately banished to the distant unheard of town of Bergues, in the Far North of France...
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,00
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+54
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 38
+
+{5B6991D0-69D9-431E-87D7-D9D762FB2B7D}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 4
+
+8265
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt1064932
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+106
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20080220T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 350
+
+{85D514FF-FBE4-4F39-ADBE-31B365D50F67}|{357363A9-3936-45BA-BF49-0083E268AD47}|{368C2288-2845-44B9-A21E-618103A3E7DF}|{486C52E6-AA5B-4DA5-9EBE-132177189B30}|{4193456B-9704-4E7F-9CBF-527F9200F684}|{A213F999-409C-4EA3-BBAD-525BB2D563F9}|{AA0CE7F5-E876-42E0-B9EE-891D89120D99}|{9B2218E3-04FA-4894-99D5-76C37FDB4E1F}|{139B56E8-DECC-41E5-850B-D5FC38467878}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 38
+
+{874CDAE8-6239-42FA-A51D-4553C0F77871}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 21
+
+Welcome to the Sticks
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 21
+
+Welcome to the Sticks
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072825
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+35efcc62-ff4c-46f6-80e5-c8b7da29b204
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072826:635445485061120101
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

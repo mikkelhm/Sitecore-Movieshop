@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {D2485634-70F2-47AA-A7C5-51455D3FF72F}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/a/antichrist
+parent: {205ED4A9-49AE-4CB6-A51F-948267EC24AC}
+name: antichrist
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: 33385fe8-0ff5-46ad-8753-835e45735ec9
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{5B6C83D2-5A28-4440-B9F5-2C18BD7ECFC8}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 10
+
+Antichrist
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 10
+
+Antichrist
+----field----
+field: {FE138D41-1E51-4208-AB6C-52B9DDFEFEDD}
+name: Tagline
+key: tagline
+content-length: 43
+
+When nature turns evil, true terror awaits.
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 183
+
+A grieving couple retreats to their cabin 'Eden' in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+06,60
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+61
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 116
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{411227DE-D360-4335-AEE5-2B3326A9B841}|{6BFFC365-6CE5-447B-8983-2A8160FE60C8}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 5
+
+17609
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0870984
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+108
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20090529T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 896
+
+{A99DEEDE-76A9-480E-A1D8-38F88D2CAB0C}|{A0EFE2E4-0298-4755-A72A-44B246A54DEB}|{BC1A78E3-E0AF-40DE-9586-B934CA34A5DF}|{4F0D39BB-35BB-4BFC-BEA1-1EFF34262756}|{7BB7E20D-802C-4AB5-A590-5AC32350026E}|{9689FC52-A396-4E17-812C-EBE7A9438936}|{C4834521-FEA2-4069-A257-650758722DD4}|{B7DB9E17-7B2E-454C-B442-131FC490671C}|{5B9725DA-5487-4F26-B29B-E06377C25807}|{107286D9-CB98-43F6-82D1-AB0FF8B39B33}|{9F286454-D978-441D-9F47-1F30949E2E77}|{E90979B4-AFB0-44E3-BC90-91142F0EF4F0}|{A762506D-D510-4C83-BF7B-02C8EB97E432}|{EDD2B81E-F799-4051-82A4-EF11B00ECB98}|{FDC09AC3-0F1E-4F99-8544-12B4A8F80FE1}|{4193456B-9704-4E7F-9CBF-527F9200F684}|{ADE4706C-12F3-4641-BC2D-5D34B9B93210}|{E8C1AEFD-3739-49E9-AE4C-15E5EEBDFCA9}|{B423CFD2-AA26-4DB7-9E56-8F05E65973D4}|{CA3C3309-36C7-42FA-A9F0-CB19F04B1226}|{ADE005C9-F06A-4B12-864F-D11CCAA464EE}|{051A895F-4429-46B2-BC46-1254AD947F00}|{73DCCA34-88E2-4C52-B1A8-024C3B2800CC}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 233
+
+{81243394-DDA5-41A6-B148-16C611DB9C15}|{48A9F76E-CA12-45B3-BE40-CE4F54ED312B}|{874CDAE8-6239-42FA-A51D-4553C0F77871}|{432DAC6A-0505-4842-AED9-4E94793E9AF6}|{88736BCC-2B01-4B60-9B82-BDD9C9777DCB}|{21FF9BCE-3E4B-4F4D-8AE9-C92F914BB756}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 10
+
+Antichrist
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 10
+
+Antichrist
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T073742
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+33385fe8-0ff5-46ad-8753-835e45735ec9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T073743:635445490639649361
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

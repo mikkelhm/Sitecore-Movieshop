@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {51C8F307-97F3-49B3-9FE8-9701C6FB9700}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/b/band of brothers
+parent: {C0D565A8-5C2E-40FE-A868-E0156D8A9895}
+name: band of brothers
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: aa6d4c1e-12ec-47dc-8c33-9acf5eb70117
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{89D7025B-AE5C-407F-87EC-F948B957BBA7}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 16
+
+Band of Brothers
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 16
+
+Band of Brothers
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 593
+
+This is the story of "E" Easy Company, 506th Regiment of the 101st Airborne Division from their initial training, starting in 1942, to the end of World War II. They parachuted behind enemy lines in the early hours of D-Day in support of the landings at Utah beach, participated in the liberation of Carentan and again parachuted into action during Operation Market Garden. They also liberated a concentration camp and were the first to enter Hitler's mountain retreat in Berchtesgarten. A fascinating tale of comradeship that is, in the end, a tale of ordinary men who did extraordinary things
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+08,00
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 3
+
+366
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 155
+
+{DD6D8B96-137A-42CC-9C0A-A4FE5CB3F3D1}|{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{8A024DDF-282B-4E99-B41D-035279335FE6}|{39376C21-8C96-4083-87DD-295873EC7C34}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 6
+
+191903
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt0185906
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+705
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20010907T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 38
+
+{FA5C6219-2285-4AB3-9763-E908F51874F8}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 740
+
+{5883A5E7-28D3-4838-8FA5-EF033A95EF5C}|{C7075690-2E3A-4AEC-9F9A-24D6DEE05091}|{4A7655E0-4132-4CD4-9793-6F45B6B53770}|{81243394-DDA5-41A6-B148-16C611DB9C15}|{48A9F76E-CA12-45B3-BE40-CE4F54ED312B}|{7020686C-A581-41F3-AEF1-98092C6B85A5}|{202BCAA9-9FF3-47BD-9EBE-BCF4E136B2BD}|{874CDAE8-6239-42FA-A51D-4553C0F77871}|{D2FFD316-A39A-4AB0-8867-A8ACFA52AAE4}|{B1D5CB6B-EFAE-46A3-883B-4B23ED6CEE73}|{7A8BABBF-21E1-498F-8602-938A2AECEA60}|{163034E4-552D-4361-82DC-FB42FF083BA8}|{432DAC6A-0505-4842-AED9-4E94793E9AF6}|{A28412AF-D2E9-4DF0-B95A-CDD93D3464E9}|{8B7E2363-0FF1-44E2-9FD0-8931BA49345C}|{E01F0787-CA6A-47CC-A31B-A64A55C24689}|{21FF9BCE-3E4B-4F4D-8AE9-C92F914BB756}|{89B97F98-0093-43F1-A660-8AC344CF29EE}|{649245CF-302E-4B96-8EEC-383A63318F2E}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 16
+
+Band of Brothers
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 16
+
+Band of Brothers
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072452
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aa6d4c1e-12ec-47dc-8c33-9acf5eb70117
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072452:635445482923162944
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

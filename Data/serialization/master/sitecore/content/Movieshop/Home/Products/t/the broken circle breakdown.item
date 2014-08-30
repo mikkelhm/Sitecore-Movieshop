@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {7796D57C-617B-4340-92CA-6B563011E069}
+database: master
+path: /sitecore/content/Movieshop/Home/Products/t/the broken circle breakdown
+parent: {7F30F90B-27B8-4220-B43C-28FCB73654FC}
+name: the broken circle breakdown
+master: {00000000-0000-0000-0000-000000000000}
+template: {7D2F4318-029A-461B-854E-FD7CFB4C4F6A}
+templatekey: Movie
+
+----version----
+language: en
+version: 1
+revision: b4a56e5b-407e-49fd-8b70-8c5b42ceec52
+
+----field----
+field: {AB8E99B0-526A-45A2-8395-2C2A803615AA}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{EAA30529-8760-46C9-8226-7C945BE0BF92}" />
+----field----
+field: {F3F565C4-FDBE-436C-875B-BAA414D8ACA2}
+name: Original title
+key: original title
+content-length: 27
+
+The Broken Circle Breakdown
+----field----
+field: {6F087EEF-B445-490D-A9A0-BA24D662E6F9}
+name: Title
+key: title
+content-length: 27
+
+The Broken Circle Breakdown
+----field----
+field: {384A1E07-CE88-4EEE-8FE2-694B1A7332EA}
+name: Body
+key: body
+content-length: 911
+
+‘The Broken Circle Breakdown’ tells the love story between Elise and Didier. She has her own tattoo shop, he plays the banjo in a band. It is love at first sight, in spite of major differences. He talks, she listens. He is a dedicated atheist, although at the same time a naïve romantic. She has a cross tattooed in her neck, even though she has both feet firmly on the ground.  Their happiness is complete after their little girl Maybelle is born. Unfortunately, Maybelle, at six years old, becomes seriously ill. Didier and Elise respond in very different ways. But Maybelle does not leave them any choice. Didier and Elise will have to fight for her together.  Will you get through something like that if you are so different? Or will love let you down if you need it most?  ‘The Broken Circle Breakdown’ is an intense melodrama, full of passion and music. About how love can conquer fate, and sometimes not.
+----field----
+field: {F7D77999-6FDE-43FF-8992-08EFA815B7F5}
+name: Vote average
+key: vote average
+content-length: 5
+
+07,80
+----field----
+field: {5CECF348-4242-46C7-890D-37B7595BB99A}
+name: Vote count
+key: vote count
+content-length: 2
+
+32
+----field----
+field: {7A0DFBD5-E53D-44DF-BC3B-55507BC189B0}
+name: Genres
+key: genres
+content-length: 77
+
+{C6211FC0-6F97-4F26-888A-6145FA3DD06B}|{D4109BC9-820C-4D7D-B0CD-EE727FD02680}
+----field----
+field: {BF279749-AA4B-427F-90B0-4D094D3BDAFA}
+name: Tmdb Id
+key: tmdb id
+content-length: 6
+
+137182
+----field----
+field: {A40B7163-6403-4BDB-BCD2-63FEA3A9245C}
+name: Imdb Id
+key: imdb id
+content-length: 9
+
+tt2024519
+----field----
+field: {7D805839-5A68-451E-A6C3-63F58B7D4BFC}
+name: Runtime
+key: runtime
+content-length: 3
+
+110
+----field----
+field: {E512F252-15CF-428A-9446-583E412899F5}
+name: Status
+key: status
+content-length: 8
+
+Released
+----field----
+field: {5CC3CA83-E2FB-4373-9CF3-DEB69406BED5}
+name: Release date
+key: release date
+content-length: 15
+
+20121009T000000
+----field----
+field: {13922CC8-64D3-4A45-9A7F-E7C2D4DA8DCC}
+name: Production companies
+key: production companies
+content-length: 77
+
+{23CAAA4C-F4BB-4474-9C4A-E61AB691C0D3}|{5EB06835-FF6F-4C41-9242-377F60DC8E6F}
+----field----
+field: {6CB65345-4F2E-42F8-9F72-EA2B08695270}
+name: Production countries
+key: production countries
+content-length: 77
+
+{E22C5AF7-0262-4D9A-BD8A-240161B205F2}|{8B7E2363-0FF1-44E2-9FD0-8931BA49345C}
+----field----
+field: {274D28A9-D738-4C8B-A4A3-1304C45F1396}
+name: Menu title
+key: menu title
+content-length: 27
+
+The Broken Circle Breakdown
+----field----
+field: {85D23EBF-A065-484F-B380-A8CDCC58E4B9}
+name: SEO title
+key: seo title
+content-length: 27
+
+The Broken Circle Breakdown
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140825T072517
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b4a56e5b-407e-49fd-8b70-8c5b42ceec52
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140825T072517:635445483178485332
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
