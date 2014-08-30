@@ -1,21 +1,25 @@
-﻿<%@ Page language="c#" Codepage="65001" AutoEventWireup="true" Inherits="MovieShop.Website.layouts.MovieShop.Main" CodeBehind="Main.aspx.cs" %>
+﻿<%@ Page Language="c#" CodePage="65001" AutoEventWireup="true" Inherits="MovieShop.Website.layouts.MovieShop.Main" CodeBehind="Main.aspx.cs" %>
+
 <%@ Register TagPrefix="sc" Namespace="Sitecore.Web.UI.WebControls" Assembly="Sitecore.Kernel" %>
 <%@ OutputCache Location="None" VaryByParam="none" %>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">                  
-  <head>
-    <title>
-    
-    </title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="CODE_LANGUAGE" content="C#" />
-    <meta name="vs_defaultClientScript" content="JavaScript" />
-    <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" />
-    <link href="/default.css" rel="stylesheet" />
-  </head>
-  <body>
-  <form method="post" runat="server" id="mainform">
-  
-  </form>
-  </body>
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/css/MovieShop/normalize.min.css">
+    <link rel="stylesheet" href="/css/MovieShop/main.css">
+
+    <script src="/scripts/MovieShop/vendor/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+    <form method="post" runat="server" id="mainform">
+        <sc:Placeholder runat="server" ID="plhContent" Key="content"/>
+    </form>
+    <script src="/scripts/MovieShop/main.js"></script>
+</body>
 </html>

@@ -78,6 +78,13 @@
     <Compile Include="layouts\MovieShop\Main.aspx.designer.cs">
       <DependentUpon>Main.aspx</DependentUpon>
     </Compile>
+    <Compile Include="layouts\MovieShop\SearchResult.ascx.cs">
+      <DependentUpon>SearchResult.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\MovieShop\SearchResult.ascx.designer.cs">
+      <DependentUpon>SearchResult.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sitecore modules\shell\MovieShop\Import.aspx.cs">
       <DependentUpon>Import.aspx</DependentUpon>
@@ -95,15 +102,24 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\MovieShop\MovieShopSearch.config" />
+    <Content Include="css\MovieShop\main.css" />
+    <Content Include="css\MovieShop\normalize.css" />
+    <Content Include="css\MovieShop\normalize.min.css" />
     <Content Include="layouts\MovieShop\Main.aspx">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
+    <Content Include="layouts\MovieShop\SearchResult.ascx" />
+    <Content Include="scripts\MovieShop\main.js" />
+    <Content Include="scripts\MovieShop\vendor\modernizr-2.6.2.min.js" />
     <Content Include="sitecore modules\shell\MovieShop\Import.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\MovieShop\MovieShop.config" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

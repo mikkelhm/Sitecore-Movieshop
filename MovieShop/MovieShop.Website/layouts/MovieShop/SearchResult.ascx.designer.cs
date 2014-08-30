@@ -10,24 +10,15 @@
 namespace MovieShop.Website.layouts.MovieShop {
     
     
-    public partial class Main {
+    public partial class SearchResult {
         
         /// <summary>
-        /// mainform control.
+        /// lvMovies control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm mainform;
-        
-        /// <summary>
-        /// plhContent control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Sitecore.Web.UI.WebControls.Placeholder plhContent;
+        protected global::System.Web.UI.WebControls.ListView lvMovies;
     }
 }
