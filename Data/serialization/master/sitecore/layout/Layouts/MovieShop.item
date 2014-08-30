@@ -1,25 +1,18 @@
 ----item----
 version: 1
-id: {139617A3-1FEA-4683-BBA1-CC159BF4A710}
+id: {47067F0E-CBF5-4A28-B5FA-C67CB9653EBA}
 database: master
-path: /sitecore/templates/MovieShop/Home/__Standard Values
-parent: {AD8DB6EF-FC1D-47D1-9C1B-01EDE68E19ED}
-name: __Standard Values
+path: /sitecore/layout/Layouts/MovieShop
+parent: {75CC5CE4-8979-4008-9D3C-806477D57619}
+name: MovieShop
 master: {00000000-0000-0000-0000-000000000000}
-template: {AD8DB6EF-FC1D-47D1-9C1B-01EDE68E19ED}
-templatekey: Home
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
 
-----field----
-field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
-name: __Renderings
-key: __renderings
-content-length: 254
-
-<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{C62A3F34-6DE3-4830-B1CC-A4D0B5C697AA}"><r id="{B546AC26-0D95-48AC-B1B5-20D84A565EEF}" ph="content" uid="{762D70ED-3F20-4EAA-B8B4-B6F2E79AB4DA}" /></d></r>
 ----version----
-language: en
+language: da
 version: 1
-revision: e83e8334-6e88-40e2-8c00-8348328cb254
+revision: d27c2c06-debe-41bd-8322-040becd694a9
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -34,7 +27,7 @@ name: __Created
 key: __created
 content-length: 15
 
-20140824T133056
+20140824T133433
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -48,14 +41,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e83e8334-6e88-40e2-8c00-8348328cb254
+d27c2c06-debe-41bd-8322-040becd694a9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20140830T223400:635450348403608550
+20140824T133436:635444840761538239
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
