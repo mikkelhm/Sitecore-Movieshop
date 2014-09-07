@@ -52,5 +52,8 @@ namespace MovieShop.BusinessLayer.Search
 
         [IndexField("production contries")]
         public List<ID> ProductionContries { get; set; }
+
+        [IndexField("imageurl")]
+        public string ImageUrl { get; set; }
     }
 }

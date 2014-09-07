@@ -48,7 +48,8 @@ namespace Website.sitecore_modules.Shell.Services
                     {
                         litMessage.Text += String.Format("{0} -> {1}<br/>", movie.OriginalTitle,
                             !movie.Title.Equals(movie.OriginalTitle) ? movie.Title : "");
-                        var movieExt = client.GetMovie(movie.Id);
+                        var movieExt = client.GetMovie(movie.Id, MovieMethods.Credits);
+                        
                         var sitecoreTitle = ItemUtil.ProposeValidItemName(movieExt.Title.Trim().ToLower());
                         var firstLetter = ItemUtil.ProposeValidItemName(sitecoreTitle.Substring(0, 1));
 
@@ -139,7 +140,6 @@ namespace Website.sitecore_modules.Shell.Services
                         }
                         movieItem["Menu title"] = movie.Title;
                         movieItem["SEO title"] = movie.Title;
-
                         movieItem.Editing.EndEdit();
                     }
                 }
