@@ -14,26 +14,32 @@ using Sitecore.Sites;
 
 namespace MovieShop.BusinessLayer.Search.ComputedFields
 {
-    public class ImageUrlComputedField : IComputedIndexField
+    public class MovieLengthComputedField : IComputedIndexField
     {
         public object ComputeFieldValue(IIndexable indexable)
         {
             Item item = indexable as SitecoreIndexableItem;
             if (item == null)
                 return null;
-            if (item["Image"] == null)
-                return null;
-            ImageField imageField = item.Fields["Image"];
-            if (imageField == null)
-                return null;
-            var mediaItem = imageField.MediaItem;
-            if (mediaItem == null)
-                return null;
-
-            // setting the context to website(sorry for hardcoding), to enable proper links
-            using (new SiteContextSwitcher(Sitecore.Sites.SiteContext.GetSite("website")))
+            if (!String.IsNullOrEmpty(item["Runtime"]))
             {
-                return MediaManager.GetMediaUrl(mediaItem);
+                int length = 0;
+                if (Int32.TryParse(item["Runtime"], out length))
+                {
+                    if (length < 60)
+                        return "0-59";
+                    if (length <= 60 && length < 120)
+                        return "60-119";
+                    if (length <= 120 && length < 180)
+                        return "120-178";
+                    if (length <= 180 && length < 240)
+                        return "180-239";
+                    return "240+";
+                }
+                else
+                {
+                    return "";
+                }
             }
             return null;
         }

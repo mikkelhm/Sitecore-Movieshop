@@ -49,6 +49,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search\ComputedFields\MovieLengthComputedField.cs" />
+    <Compile Include="Search\ComputedFields\DecadeComputedField.cs" />
+    <Compile Include="Search\ComputedFields\YearComputedField.cs" />
+    <Compile Include="Search\ComputedFields\UrlComputedField.cs" />
     <Compile Include="Search\ComputedFields\ImageUrlComputedField.cs" />
     <Compile Include="Search\MovieSearchResultItem.cs" />
     <Compile Include="Search\SearchHelper.cs" />

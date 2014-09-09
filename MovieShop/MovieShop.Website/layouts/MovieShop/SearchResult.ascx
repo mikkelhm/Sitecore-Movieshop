@@ -5,6 +5,9 @@
         <ul><asp:placeholder ID="itemPlaceholder" runat="server"/></ul>
     </LayoutTemplate>
     <ItemTemplate>
-        <li><%# Item.OriginalTitle %> - <%# Item.Title %> - <%# Item.ItemId %></li>
+        <li>
+            <div><a href="<%# Item.Url %>"><%# Item.OriginalTitle %> - <%# Item.Title %> - <%# Item.ItemId %></a></div>
+            <div><img src="<%# Item.ImageUrl %>?mw=250"/></div>
+        </li>
     </ItemTemplate>
 </asp:listview>

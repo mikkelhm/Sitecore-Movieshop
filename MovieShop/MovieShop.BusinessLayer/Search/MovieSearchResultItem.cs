@@ -47,6 +47,12 @@ namespace MovieShop.BusinessLayer.Search
         [IndexField("release date")]
         public DateTime ReleaseDate { get; set; }
 
+        [IndexField("releaseyear")]
+        public int ReleaseYear { get; set; }
+
+        [IndexField("releasedecade")]
+        public int ReleaseDecade { get; set; }
+
         [IndexField("production companies")]
         public List<ID> ProductionCompanies { get; set; }
 
@@ -55,5 +61,8 @@ namespace MovieShop.BusinessLayer.Search
 
         [IndexField("imageurl")]
         public string ImageUrl { get; set; }
+
+        [IndexField("url")]
+        public string Url { get; set; }
     }
 }

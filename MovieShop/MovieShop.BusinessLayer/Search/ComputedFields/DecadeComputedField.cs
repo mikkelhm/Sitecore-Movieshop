@@ -14,26 +14,20 @@ using Sitecore.Sites;
 
 namespace MovieShop.BusinessLayer.Search.ComputedFields
 {
-    public class ImageUrlComputedField : IComputedIndexField
+    public class DecadeComputedField : IComputedIndexField
     {
         public object ComputeFieldValue(IIndexable indexable)
         {
             Item item = indexable as SitecoreIndexableItem;
             if (item == null)
                 return null;
-            if (item["Image"] == null)
-                return null;
-            ImageField imageField = item.Fields["Image"];
-            if (imageField == null)
-                return null;
-            var mediaItem = imageField.MediaItem;
-            if (mediaItem == null)
-                return null;
-
-            // setting the context to website(sorry for hardcoding), to enable proper links
-            using (new SiteContextSwitcher(Sitecore.Sites.SiteContext.GetSite("website")))
+            if (!String.IsNullOrEmpty(item["Release date"]))
             {
-                return MediaManager.GetMediaUrl(mediaItem);
+                DateField dateField = item.Fields["Release date"];
+                if (dateField.DateTime != DateTime.MinValue)
+                {
+                    return ((int)Math.Floor(dateField.DateTime.Year / 10.0)) * 10;
+                }
             }
             return null;
         }
